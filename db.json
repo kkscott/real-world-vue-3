@@ -29,6 +29,36 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 987,
+      "category": "sustainability",
+      "title": "Park Cleanup",
+      "description": "Help pick up trash in the park.",
+      "location": "Playa Del Ramen",
+      "date": "July 22, 2022",
+      "time": "15:00",
+      "organizer": "Amy Wales"
+    },
+    {
+      "id": 654,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your new pup at this event.",
+      "location": "Woof Ville",
+      "date": "Feb 22, 2021",
+      "time": "08:00",
+      "organizer": "John Smith"
+    },
+        {
+      "id": 321,
+      "category": "helping hands",
+      "title": "Soup Kitchen",
+      "description": "Help feed the homeless.",
+      "location": "London",
+      "date": "September 3, 2022",
+      "time": "18:00",
+      "organizer": "Tom Jones"
     }
   ]
 }
